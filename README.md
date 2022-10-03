@@ -1,7 +1,7 @@
 # Name
 To do list
 
-# Discription
+# Description
 Note down today's task and check after completing
 
 # image
